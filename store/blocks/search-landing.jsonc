@@ -7,7 +7,7 @@
   },
   "image#landingbanner": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+      "src": "https://super.abril.com.br/wp-content/uploads/2018/06/o-fone-mais-caro-do-mundo_home-copy.png?quality=70&strip=info&resize=680,453",
       "minWidth": "100%"
     }
   },
@@ -17,7 +17,7 @@
         "orderByField": "OrderByReleaseDateDESC",
         "hideUnavailableItems": true,
         "maxItemsPerPage": 8,
-        "query": "Blue Top Retro Camera"
+        "queryField": "Blue Top Retro Camera"
       }
     }
   }
